@@ -14,7 +14,7 @@ There is also a potentiometer to adjust the sensitivity of the detection.
 
 ## Processing code
 
-'''
+'''C
 // Code made for processing 3 with arduino serial processing 
 //Maxime Aymonin
 
