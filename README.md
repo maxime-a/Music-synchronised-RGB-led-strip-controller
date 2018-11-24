@@ -14,7 +14,7 @@ There is also a potentiometer to adjust the sensitivity of the detection.
 
 ## Processing code
 
-'''c++
+```
 // Code made for processing 3 with arduino serial processing 
 //Maxime Aymonin
 
@@ -134,4 +134,4 @@ void setColor1()
   arduino.analogWrite(greenPin1, g);
   arduino.analogWrite(bluePin1, b);  
 }
-'''
+```
