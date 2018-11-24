@@ -11,6 +11,9 @@ There is also a potentiometer to adjust the sensitivity of the detection.
 
 ![Wiring](/Wiring.PNG)
 
+## Case
+
+![Case](/3D printed case design.PNG)
 
 ## Processing code
 
