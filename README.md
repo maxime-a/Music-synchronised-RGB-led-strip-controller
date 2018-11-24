@@ -10,3 +10,10 @@ There is also a potentiometer to adjust the sensitivity of the detection.
 ## Wiring
 
 ![Wiring](/Wiring.PNG)
+
+
+## Processing code
+
+'''
+
+'''
