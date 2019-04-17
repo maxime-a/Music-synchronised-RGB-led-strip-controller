@@ -1,10 +1,6 @@
 # Music synchronised RGB led strip controller
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AieWlq01SQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Demo video :
-https://www.youtube.com/watch?v=AieWlq01SQo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AieWlq01SQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Working principle
 
