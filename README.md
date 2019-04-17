@@ -1,5 +1,7 @@
 # Music synchronised RGB led strip controller
 
+[Demo](https://www.youtube.com/watch?v=AieWlq01SQo&feature=youtu.be)
+
 ## Working principle
 
 I use an arduino microcontroller connected to a software made with Processing with a serial communication.
